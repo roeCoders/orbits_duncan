@@ -1,0 +1,2 @@
+This code creates two Body objects, a Star and a Planet.  
+It specifies their positions and velocities, and then calculates orbital parameters.
